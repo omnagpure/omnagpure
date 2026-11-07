@@ -138,7 +138,7 @@ A responsive website built for a client, published on a live domain via Hostinge
 
 <p align="center">
   <a href="https://github.com/omnagpure">
-    <img alt="Most used languages across Om Nagpure's public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omnagpure&layout=compact&hide_border=true&bg_color=0B0F14&title_color=2DD4BF&text_color=9AA7B4&border_radius=12&card_width=420&langs_count=6">
+    <img src="assets/stats.svg" alt="Most used languages across Om Nagpure's public GitHub repositories" width="100%">
   </a>
 </p>
 
