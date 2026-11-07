@@ -1,9 +1,3 @@
-<!--
-  Before publishing, replace the two placeholder links in the "Connect" section:
-    YOUR-LINKEDIN-ID  and  YOUR-INSTAGRAM-ID
-  Then add the data warehouse repository link (search for TODO below).
-  Keep the assets/ folder next to this file in the profile repository.
--->
 
 <p align="center">
   <img src="assets/header.svg" alt="Om Nagpure, AI and ML engineering student. Turning messy data into decisions." width="100%">
@@ -16,7 +10,7 @@
 
 <br>
 
-## 01 &nbsp;About
+##  &nbsp;About
 
 I'm a final-year AI & ML engineering student currently developing an AI-powered Business Intelligence platform using Python. The project focuses on processing raw supply chain data, identifying column semantics, and generating actionable insights through forecasting, anomaly detection and automated reporting.
 
@@ -29,7 +23,7 @@ Currently strengthening my foundations in data structures, algorithms and softwa
 
 <br>
 
-## 02 &nbsp;Tech Stack
+##  &nbsp;Tech Stack
 
 <table>
   <tr>
@@ -74,7 +68,7 @@ Currently strengthening my foundations in data structures, algorithms and softwa
 
 <br>
 
-## 03 &nbsp;Projects
+##  &nbsp;Projects
 
 <a href="https://github.com/omnagpure/AI-Business-Intelligence-Platform">
   <img src="assets/project-bi.svg" alt="AI Business Intelligence Platform pipeline: ingest, clean, understand, analyse, report." width="100%">
@@ -123,7 +117,7 @@ A responsive website built for a client, published on a live domain via Hostinge
 
 <br>
 
-## 04 &nbsp;Currently Learning
+##  &nbsp;Currently Learning
 
 - **C++** — data structures and algorithms
 - **Python** — application development
@@ -134,7 +128,7 @@ A responsive website built for a client, published on a live domain via Hostinge
 
 <br>
 
-## 05 &nbsp;Statistics
+##  &nbsp;Statistics
 
 <p align="center">
   <a href="https://github.com/omnagpure">
@@ -145,7 +139,7 @@ A responsive website built for a client, published on a live domain via Hostinge
 <br>
 
 
-## 06 &nbsp;Connect
+##  &nbsp;Connect
 
 <a href="https://www.linkedin.com/in/om-nagpure/"><img alt="Om Nagpure on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"></a>
 <a href="https://www.instagram.com/lazyomfornow/"><img alt="Om Nagpure on Instagram" src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=2DD4BF"></a>
