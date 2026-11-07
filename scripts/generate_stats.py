@@ -15,6 +15,8 @@ SANS = "'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"
 TEAL = "#2DD4BF"
 SHADES = ["#2DD4BF", "#14B8A6", "#5EEAD4", "#0D9488", "#99F6E4", "#475569"]
 MAX_LANGS = 6
+# Notebook file size includes saved outputs and inflates the share, so it is left out.
+EXCLUDE = {"Jupyter Notebook"}
 
 
 def get(url):
@@ -38,6 +40,8 @@ def collect(user):
     totals = {}
     for r in own:
         for lang, n in get(r["languages_url"]).items():
+            if lang in EXCLUDE:
+                continue
             totals[lang] = totals.get(lang, 0) + n
     return len(own), totals
 
@@ -53,7 +57,8 @@ def render(user, repo_count, totals):
     if rest:
         colors[-1] = SHADES[-1]
 
-    w, h, x0, bar_w = 900, 220, 48, 804
+    rows = max(1, -(-len(top) // 3))
+    w, h, x0, bar_w = 900, 140 + (rows - 1) * 32 + 40, 48, 804
     out = [f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" width="{w}" height="{h}" role="img" aria-labelledby="t d">
   <title id="t">Most used languages</title>
   <desc id="d">{escape(", ".join(f"{k} {v*100/total:.0f}%" for k, v in top)) or "No language data yet"} across {repo_count} public repositories by {escape(user)}.</desc>
