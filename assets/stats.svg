@@ -1,28 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-labelledby="t d">
   <title id="t">Most used languages</title>
-  <desc id="d">Jupyter Notebook 58%, Python 40%, TSQL 2% across 5 public repositories by omnagpure.</desc>
+  <desc id="d">Python 95%, TSQL 5% across 5 public repositories by omnagpure.</desc>
   <defs>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#131A22" stroke-width="1"/></pattern>
     <clipPath id="bar"><rect x="48" y="92" width="804" height="12" rx="6"/></clipPath>
   </defs>
-  <rect width="900" height="220" rx="16" fill="#0B0F14"/>
-  <rect width="900" height="220" rx="16" fill="url(#grid)"/>
-  <rect x="0.5" y="0.5" width="899" height="219" rx="16" fill="none" stroke="#1B2430"/>
+  <rect width="900" height="180" rx="16" fill="#0B0F14"/>
+  <rect width="900" height="180" rx="16" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="899" height="179" rx="16" fill="none" stroke="#1B2430"/>
   <rect x="48" y="40" width="28" height="3" fill="#2DD4BF"/>
   <text x="48" y="72" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#2DD4BF">MOST USED LANGUAGES</text>
   <text x="852" y="72" text-anchor="end" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#5B6773">5 public repositories</text>
   <g clip-path="url(#bar)">
-    <rect x="48.0" y="92" width="465.6" height="12" fill="#2DD4BF"/>
-    <rect x="513.1" y="92" width="322.4" height="12" fill="#14B8A6"/>
-    <rect x="835.0" y="92" width="17.5" height="12" fill="#5EEAD4"/>
+    <rect x="48.0" y="92" width="764.2" height="12" fill="#2DD4BF"/>
+    <rect x="811.7" y="92" width="40.8" height="12" fill="#14B8A6"/>
   </g>
   <circle cx="53" cy="135" r="5" fill="#2DD4BF"/>
-  <text x="66" y="140" font-family="'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#E6EDF3">Jupyter Notebook</text>
-  <text x="246" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">57.8%</text>
+  <text x="66" y="140" font-family="'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#E6EDF3">Python</text>
+  <text x="141" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">95.0%</text>
   <circle cx="323" cy="135" r="5" fill="#14B8A6"/>
-  <text x="336" y="140" font-family="'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#E6EDF3">Python</text>
-  <text x="411" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">40.0%</text>
-  <circle cx="593" cy="135" r="5" fill="#5EEAD4"/>
-  <text x="606" y="140" font-family="'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#E6EDF3">TSQL</text>
-  <text x="660" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">2.1%</text>
+  <text x="336" y="140" font-family="'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#E6EDF3">TSQL</text>
+  <text x="390" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">5.0%</text>
 </svg>
