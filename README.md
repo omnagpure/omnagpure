@@ -35,7 +35,7 @@ I like problems where messy, real-world data has to be turned into something a p
 
 | 🔹 **Data Warehouse &amp; Analytics Project** |
 | :-- |
-| A SQL Server data warehouse built on the Medallion architecture, with ETL pipelines that load ERP and CRM source data.<br><br>• Bronze (raw), Silver (cleaned) and Gold (analysis-ready) layers<br>• ETL to clean, standardise and integrate data across layers<br>• SQL views for customer behaviour, product performance and sales trends<br><br>`SQL Server` · `SQL` · `ETL` · `Data Modeling`<br><br><!-- TODO: add "[View repository →](https://github.com/omnagpure/REPO-NAME)" once the repo name is confirmed --> |
+| A SQL Server data warehouse built on the Medallion architecture, with ETL pipelines that load ERP and CRM source data.<br><br>• Bronze (raw), Silver (cleaned) and Gold (analysis-ready) layers<br>• ETL to clean, standardise and integrate data across layers<br>• SQL views for customer behaviour, product performance and sales trends<br><br>`SQL Server` · `SQL` · `ETL` · `Data Modeling`<br><br><!-- TODO: add "[View repository →](https://github.com/omnagpure/REPO-NAME)" once the repo name is confirmed --> <br><br>[View repository →](https://github.com/omnagpure/AI-Business-Intelligence-Platform) |
 
 | 🔹 **[Service Guru Solutions](https://www.servicegurusolutions.com)** — client project |
 | :-- |
