@@ -144,16 +144,15 @@ A responsive website built for a client, published on a live domain via Hostinge
 
 <br>
 
+
 ## 06 &nbsp;Connect
 
-<!-- Replace YOUR-LINKEDIN-ID and YOUR-INSTAGRAM-ID with your real handles -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img alt="Om Nagpure on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"></a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM-ID"><img alt="Om Nagpure on Instagram" src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=2DD4BF"></a>
+<a href="https://www.linkedin.com/in/om-nagpure/"><img alt="Om Nagpure on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B0F14?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"></a>
+<a href="https://www.instagram.com/lazyomfornow/"><img alt="Om Nagpure on Instagram" src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=2DD4BF"></a>
 <a href="mailto:omnagpure111@gmail.com"><img alt="Email Om Nagpure" src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=gmail&logoColor=2DD4BF"></a>
-
 <br>
 
 <p align="center">
-  <i>"Simplicity is prerequisite for reliability."</i><br>
-  <sub>Edsger W. Dijkstra</sub>
+  <i>"I owe it to myself to be the person I need."</i><br>
+  <sub>— Om Nagpure, in case you wondered.</sub>
 </p>
