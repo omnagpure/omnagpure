@@ -18,12 +18,14 @@
 
 ## 01 &nbsp;About
 
-I build Python applications that take messy, real-world data and turn it into something a person can act on. My main project is an analytics platform that cleans raw supply chain files, works out what each column means, and produces forecasts, anomaly flags and reports.
+I'm a final-year AI & ML engineering student currently developing an AI-powered Business Intelligence platform using Python. The project focuses on processing raw supply chain data, identifying column semantics, and generating actionable insights through forecasting, anomaly detection and automated reporting.
 
-I write tests alongside my code, and I'm using my final year to strengthen my fundamentals in data structures, algorithms and software design. I'm looking to learn from real engineering teams and contribute where I can.
+I care about writing maintainable code, testing my implementations and understanding the engineering decisions behind what I build.
+
+Currently strengthening my foundations in data structures, algorithms and software design while looking to gain experience working on real-world engineering problems.
 
 **Education** &nbsp;B.E. AI &amp; ML, 2023 – 2027<br>
-**Focus** &nbsp;Python applications, data pipelines, applied machine learning
+**Focus** &nbsp;Python, Data Structures & Algorithms, Applied Machine Learning
 
 <br>
 
@@ -68,7 +70,7 @@ I write tests alongside my code, and I'm using my final year to strengthen my fu
   </tr>
 </table>
 
-<sub>Core concepts: Data Structures &amp; Algorithms · Object-Oriented Programming · DBMS · ETL Pipelines · Data Modeling</sub>
+<sub>Core Concepts: Data Structures &amp; Algorithms · Object-Oriented Programming · DBMS · ETL · Data Modeling</sub>
 
 <br>
 
@@ -103,13 +105,21 @@ A data warehouse in SQL Server built on the Medallion architecture, with ETL pip
 - ETL that cleans, standardises and integrates data across layers.
 - SQL views for customer behaviour, product performance and sales trends.
 
-<sub>`SQL Server` · `SQL` · `ETL` · `Data Modeling`</sub>
-<!-- TODO: add: **[View repository →](https://github.com/omnagpure/REPO-NAME)** -->
+<sub>`SQL Server` · `SQL` · `ETL` · `Data Modeling`</sub><br>
+**[View repository →](https://github.com/omnagpure/Data-Warehouse-Analytics-Project)**
 
 <br>
 
-**Service Guru Solutions** — client website &nbsp;·&nbsp; <sub>`HTML` · `CSS`</sub><br>
-A responsive site for a client that adapts across phones, tablets and desktops, published on a live domain via Hostinger. **[Visit site →](https://www.servicegurusolutions.com)**
+<br>
+
+<a href="https://www.servicegurusolutions.com">
+  <img src="assets/project-serviceguru.svg" alt="Service Guru Solutions client website, shown as desktop, tablet and phone layouts." width="100%">
+</a>
+
+A responsive website built for a client, published on a live domain via Hostinger. The layout adapts across phones, tablets and desktops.
+
+<sub>`HTML` · `CSS`</sub><br>
+**[Visit site →](https://www.servicegurusolutions.com)**
 
 <br>
 
