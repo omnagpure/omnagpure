@@ -148,5 +148,5 @@ A responsive website built for a client, published on a live domain via Hostinge
 
 <p align="center">
   <i>"I owe it to myself to be the person I need."</i><br>
-  <sub>— Om Nagpure,   in case you wondered.</sub>
+  <sub>— Om Nagpure</sub>
 </p>
