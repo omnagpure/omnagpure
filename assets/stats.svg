@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180" role="img" aria-labelledby="t d">
   <title id="t">Most used languages</title>
-  <desc id="d">Python 95%, TSQL 5% across 5 public repositories by omnagpure.</desc>
+  <desc id="d">Python 95%, TSQL 5% across 4 public repositories by omnagpure.</desc>
   <defs>
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#131A22" stroke-width="1"/></pattern>
     <clipPath id="bar"><rect x="48" y="92" width="804" height="12" rx="6"/></clipPath>
@@ -10,7 +10,7 @@
   <rect x="0.5" y="0.5" width="899" height="179" rx="16" fill="none" stroke="#1B2430"/>
   <rect x="48" y="40" width="28" height="3" fill="#2DD4BF"/>
   <text x="48" y="72" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#2DD4BF">MOST USED LANGUAGES</text>
-  <text x="852" y="72" text-anchor="end" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#5B6773">5 public repositories</text>
+  <text x="852" y="72" text-anchor="end" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#5B6773">4 public repositories</text>
   <g clip-path="url(#bar)">
     <rect x="48.0" y="92" width="764.2" height="12" fill="#2DD4BF"/>
     <rect x="811.7" y="92" width="40.8" height="12" fill="#14B8A6"/>
