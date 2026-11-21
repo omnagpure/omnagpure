@@ -12,13 +12,13 @@
   <text x="48" y="72" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#2DD4BF">MOST USED LANGUAGES</text>
   <text x="852" y="72" text-anchor="end" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="13" fill="#5B6773">5 public repositories</text>
   <g clip-path="url(#bar)">
-    <rect x="48.0" y="92" width="789.3" height="12" fill="#2DD4BF"/>
-    <rect x="836.8" y="92" width="15.7" height="12" fill="#14B8A6"/>
+    <rect x="48.0" y="92" width="791.3" height="12" fill="#2DD4BF"/>
+    <rect x="838.8" y="92" width="13.7" height="12" fill="#14B8A6"/>
   </g>
   <circle cx="53" cy="135" r="5" fill="#2DD4BF"/>
   <text x="66" y="140" font-family="'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#E6EDF3">Python</text>
-  <text x="141" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">98.1%</text>
+  <text x="141" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">98.4%</text>
   <circle cx="323" cy="135" r="5" fill="#14B8A6"/>
   <text x="336" y="140" font-family="'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#E6EDF3">TSQL</text>
-  <text x="390" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">1.9%</text>
+  <text x="390" y="140" font-family="ui-monospace,'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#8B98A5">1.6%</text>
 </svg>
